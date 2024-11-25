@@ -14,4 +14,15 @@ header{
     width: fit-content;
     padding: 8px 8px;
 }
-
+.text-white{
+    color: #F5F5F5;
+}
+.geometry-section{
+    background-image: url('../images/bg-image1_1.png');
+}
+.bg-color-brown{
+    background-color: #F2EBDF;
+}
+.b-r-0{
+    border-radius: 0px;
+}
