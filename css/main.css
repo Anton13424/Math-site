@@ -26,3 +26,12 @@ header{
 .b-r-0{
     border-radius: 0px;
 }
+.icon{
+    width: 35px;
+}
+.text-tan{
+    color: #D3C5B6;
+}
+.math-task{
+    background-image: url(../images/bg-image2_1.png);
+}
