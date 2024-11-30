@@ -33,5 +33,8 @@ header{
     color: #D3C5B6;
 }
 .math-task{
-    background-image: url(../images/bg-image2_1.png);
+    background-image: url(../images/bg-image2_1.jpg);
+}
+.geometry-card{
+    max-width: 286px;
 }
