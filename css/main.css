@@ -38,3 +38,6 @@ header{
 .geometry-card{
     max-width: 286px;
 }
+.second-page{
+    background-image: url('../images/hmmm.jpg');
+}
